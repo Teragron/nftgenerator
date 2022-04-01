@@ -22,4 +22,4 @@ The most vital data is the body-part data, which has (for now) 4 sub paths.
 
 The body-part paths and "generated2" path  should exist in following directorial tree way:
 
-![](gits/gitdirs.png)
+![](ditree.png)
