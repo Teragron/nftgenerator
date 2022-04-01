@@ -43,6 +43,13 @@ The body-part paths and "generated2" path  should exist in following directorial
 
  With the help of pysimplegui i've added a simple user interface to the script, which makes the path selection way faster. This way, we can also give the size for the output data. The size is by set to 512,512 .
  
+ # Showcase
+ 
+![1](https://user-images.githubusercontent.com/54573938/161191477-8dea14d3-6da8-495e-9598-9f8356585f52.png)
+![190](https://user-images.githubusercontent.com/54573938/161191488-8117e9f7-cfea-4c45-8577-de7f8b21f8d0.png)
+![89](https://user-images.githubusercontent.com/54573938/161191505-31f3efc7-ddf0-423d-8cfb-1952f9799701.png)
+
+ 
 ## Suggestions
 
 Adapting to dynamic changes and creating new variables for body parts can make the script more useful.
