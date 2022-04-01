@@ -1,6 +1,6 @@
 # NFT - Generator
 
-This Application helps you create NFT with a simple python script.
+This Application helps you create NFT with GUI.
 
 ## What is NFT Generator ?
 
