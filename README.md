@@ -41,7 +41,7 @@ The body-part paths and "generated2" path  should exist in following directorial
 
 ![](gui.png)
 
- With the help of pysimplegui i've added a simple user interface to the script, which makes the path selection way faster. This way, we can also give the size for the output data. The size is by set to 512,512 .
+ With the help of pysimplegui i've added a simple user interface to the script, which makes the path selection way faster. This way, we can also give the size for the output data. The size is by default set to 512x512
  
  # Showcase
  
