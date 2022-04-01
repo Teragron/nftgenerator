@@ -17,7 +17,7 @@ This demo is a demonstration for the NFT project "ANANASMAN", which showcases th
 
 ## How it works?
 
-Running through every possible combination of the given categories is the principal of the script. Then overlaying the combination in the correct order (Background->Upper body->Head->Lower body) gives the result.
+Running through every possible combination of the given categories is the principal of the script. Then overlaying the combination in the correct order (Background->Upper body->Head->Lower body) gives the result. Although this may seem like permutation since it looks like an order, the Sequencing is only neccessary for the overlaying. So for example with 4 combined categories each having 5 images would give us 5x5x5x5 images, which is 625. (I will look to the definition of this iterative process again)
 
 ![](githowto.png)
 
